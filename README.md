@@ -1,22 +1,19 @@
 # 👋 Hi, I'm Quantum Yeti
 
-Software Developer • Java • Python • Rust
+🎵 Software Developer • Java • Python • Rust
 
-I’m passionate about **creative software projects**, **math**, **music**, and exploring the intersection of **code and art**.  
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **ScratchBoard** | Interactive board for experiments and demos | [View Repo](https://github.com/Quantum-Yeti/ScratchBoard) |
-| **KawaiiCalc** | Cute calculator app | [View Repo](https://github.com/Quantum-Yeti/KawaiiCalc) |
-| **WifiMuscles** | IoT fitness tracker integration | [View Repo](https://github.com/Quantum-Yeti/WifiMuscles) |
+I love building **open source projects**, and playing the piano.  
 
 ---
 
-## 🌐 Links
-[Portfolio](https://quantumyeti.github.io) • [GitHub](https://github.com/quantum-yeti) • [Google Play](https://play.google.com/store/apps/dev?id=8208308725281252914) • [Sheet Music](https://www.sheetmusicplus.com/en/category/publishers/t/theoria-music-publishing/)  
+## 💖 Support My Work
+
+If you like my projects and want to support me, you can donate here:
+
+[Ko-fi]() • [PayPal]() • [GitHub Sponsors]()
 
 ---
+
+## 🌐 Connect with Me
+
+[🌐 Portfolio](https://quantumyeti.github.io) • [🐱 GitHub](https://github.com/Quantum-Yeti) • [📱 Google Play](https://play.google.com/store/apps/dev?id=8208308725281252914) • [🎹 Sheet Music](https://www.sheetmusicplus.com/en/category/publishers/t/theoria-music-publishing/)
