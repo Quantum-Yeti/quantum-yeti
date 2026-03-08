@@ -12,7 +12,7 @@ Building software, publishing music, and exploring interesting ideas through cod
 
 ## 🚀 About Me
 
-- 🎓 **Master’s Degree in Software Engeering** from Penn State University
+- 🎓 **Master’s Degree in Software Engineering** from Penn State University
 - 💻 Software developer focused on building useful, polished applications that solve problems.
 - 🌱 Passionate about **open source**
 - 🎹 Pianist and music publisher
