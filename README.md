@@ -20,14 +20,6 @@ Building **open-source software**, experimenting with ideas, and composing music
 
 ---
 
-## 🧰 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
----
-
 ## 💖 Support My Work
 
 If you enjoy my projects and want to help support future development:
