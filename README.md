@@ -24,25 +24,23 @@ Building software, publishing music, and exploring interesting ideas through cod
 
 If you enjoy my projects and want to support future development:
 
-☕ **Ko-fi**  
-💳 **PayPal**  
-⭐ **GitHub Sponsors**
+[☕ Support on Ko-fi](https://ko-fi.com/)
+
+[💳 Donate via PayPal](https://paypal.me/)
+
+[⭐ GitHub Sponsors](https://github.com/sponsors/)
 
 ---
 
 ## 🌎 Connect With Me
 
-🌐 **Portfolio**  
-https://quantum-yeti.github.io  
+🌐 **Portfolio**  -> https://quantum-yeti.github.io  
 
-🐱 **GitHub**  
-https://github.com/Quantum-Yeti  
+🐱 **GitHub**  -> https://github.com/Quantum-Yeti  
 
-📱 **Google Play**  
-https://play.google.com/store/apps/dev?id=8208308725281252914  
+📱 **Google Play**  -> https://play.google.com/store/apps/dev?id=8208308725281252914  
 
-🎼 **Sheet Music Publishing**  
-https://www.sheetmusicplus.com/en/category/publishers/t/theoria-music-publishing/
+🎼 **Sheet Music Publishing**  -> https://www.sheetmusicplus.com/en/category/publishers/t/theoria-music-publishing/
 
 ---
 
