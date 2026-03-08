@@ -1,11 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm **Quantum Yeti** ❄️👾
+# 👋 Hey, I'm Quantum Yeti ❄️👾
 
-💻 **Software Developer**  
-☕ Java • 🐍 Python • 🦀 Rust  
+**Software Developer • Open Source Creator • Pianist**
 
-Building **open-source software**, experimenting with ideas, and composing music on the 🎹
+Building software, publishing music, and exploring interesting ideas through code.
 
 </div>
 
@@ -13,22 +12,21 @@ Building **open-source software**, experimenting with ideas, and composing music
 
 ## 🚀 About Me
 
-- 🔭 Working on **open source apps & tools**
-- ⚡ Love clean UI, performance, and elegant code
-- 🎹 Pianist & music publisher
-- 🧠 Always learning new technologies
+- 🎓 **Master’s Degree in Software Engeering** from Penn State University
+- 💻 Software developer focused on building useful, polished applications that solve problems.
+- 🌱 Passionate about **open source**
+- 🎹 Pianist and music publisher
+- ⚡ Interested in performance, elegant architecture, and data
 
 ---
 
 ## 💖 Support My Work
 
-If you enjoy my projects and want to help support future development:
+If you enjoy my projects and want to support future development:
 
-☕ **Ko-fi** • 💳 **PayPal** • ⭐ **GitHub Sponsors**
-
-[Ko-fi]()  
-[PayPal]()  
-[GitHub Sponsors]()
+☕ **Ko-fi**  
+💳 **PayPal**  
+⭐ **GitHub Sponsors**
 
 ---
 
