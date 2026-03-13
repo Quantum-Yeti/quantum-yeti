@@ -34,7 +34,9 @@ If you enjoy my projects and want to support future development:
 
 🐱 **GitHub**  -> https://github.com/Quantum-Yeti  
 
-📱 **Google Play**  -> https://play.google.com/store/apps/dev?id=8208308725281252914  
+📱 **Google Play**  -> https://play.google.com/store/apps/dev?id=8208308725281252914
+
+📱 **Microsoft Store** -> https://apps.microsoft.com/search/publisher?name=QuantumYeti&hl=en-US&gl=US
 
 🎼 **Sheet Music Publishing**  -> https://www.sheetmusicplus.com/en/category/publishers/t/theoria-music-publishing/
 
