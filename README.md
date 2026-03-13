@@ -24,9 +24,7 @@ Building software, publishing music, and exploring interesting ideas through cod
 
 If you enjoy my projects and want to support future development:
 
-[☕ Support on Ko-fi](https://ko-fi.com/)
-
-[💳 Donate via PayPal](https://paypal.me/)
+[☕ Support on Ko-fi](https://ko-fi.com/quantumyeti))
 
 [⭐ GitHub Sponsors](https://github.com/sponsors/)
 
