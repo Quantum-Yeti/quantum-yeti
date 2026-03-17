@@ -4,7 +4,9 @@
 
 **Software Developer • Open Source Creator • Pianist**
 
-Building software, publishing music, and exploring interesting ideas through code. I use GitHub to publish and manage my publicly available software projects.
+Building software, publishing music, and exploring interesting ideas through code. 
+
+I use GitHub to publish and manage my publicly available software projects.
 
 </div>
 
