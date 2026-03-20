@@ -25,7 +25,7 @@ I design and build software and automation tools that solve real problems, optim
 
 - **Portfolio:** [quantum-yeti.github.io](https://quantum-yeti.github.io)  
 - **GitHub:** [github.com/Quantum-Yeti](https://github.com/Quantum-Yeti)  
-- **Google Play:** [Apps](https://play.google.com/store/apps/dev?id=8208308725281252914)  
-- **Microsoft Store:** [Apps](https://apps.microsoft.com/search/publisher?name=QuantumYeti&hl=en-US&gl=US)  
+- **Google Play:** [Android Apps](https://play.google.com/store/apps/dev?id=8208308725281252914)  
+- **Microsoft Store:** [Microsoft Apps](https://apps.microsoft.com/search/publisher?name=QuantumYeti&hl=en-US&gl=US)  
 - **Sheet Music Publishing:** [Theoria Music](https://www.sheetmusicplus.com/en/category/publishers/t/theoria-music-publishing/)  
 - **Support:** [Ko-fi](https://ko-fi.com/quantumyeti)
