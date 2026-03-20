@@ -1,51 +1,31 @@
-<div align="center">
+# Quantum Yeti ❄️👾
 
-# 👋 Hey, I'm Quantum Yeti ❄️👾
+**Software Developer • Open Source Creator • Data Professional**
 
-**Software Developer • Open Source Creator • Pianist**
-
-Building software, publishing music, and exploring interesting ideas through code. 
-
-I use GitHub to publish and manage my publicly available software projects.
-
-</div>
+I design and build software and automation tools that solve real problems, optimize workflows, and enable data-driven decision-making. Experienced in software engineering, data analysis, workflow automation, and delivering solutions that drive measurable impact.
 
 ---
 
-## 🚀 About Me
+## 💻 Technical Skills
 
-- 🎓 **Master’s Degree in Software Engineering** from Penn State University
-- 💻 Software developer focused on building useful, polished applications that solve problems.
-- 🌱 Passionate about **open source**
-- 🎹 Pianist and music publisher
-- ⚡ Interested in performance, elegant architecture, and data
+- **Programming & Frameworks:** Python, Java, Rust, SQL/SQLite/MySQL, Android Development  
+- **Tools & Practices:** Git/GitHub, CI/CD, Automation, Agile/Scrum, Business Intelligence  
+- **Data & Analytics:** Data visualization, BI, dashboarding, predictive modeling, workflow optimization  
 
 ---
 
-## 💖 Support My Work
+## 🎓 Education
 
-If you enjoy my projects and want to support future development:
-
-☕ Support on Ko-fi: (https://ko-fi.com/quantumyeti)
-
----
-
-## 🌎 Connect With Me
-
-🌐 **Portfolio**  -> https://quantum-yeti.github.io  
-
-🐱 **GitHub**  -> https://github.com/Quantum-Yeti  
-
-📱 **Google Play**  -> https://play.google.com/store/apps/dev?id=8208308725281252914
-
-📱 **Microsoft Store** -> https://apps.microsoft.com/search/publisher?name=QuantumYeti&hl=en-US&gl=US
-
-🎼 **Sheet Music Publishing**  -> https://www.sheetmusicplus.com/en/category/publishers/t/theoria-music-publishing/
+- **Master of Software Engineering** – Penn State University, 2024  
+- **Bachelor of Arts** – Penn State University, 2022  
 
 ---
 
-<div align="center">
+## 🌎 Connect & Explore
 
-⭐ *If you like my projects, consider starring them!* ⭐
-
-</div>
+- **Portfolio:** [quantum-yeti.github.io](https://quantum-yeti.github.io)  
+- **GitHub:** [github.com/Quantum-Yeti](https://github.com/Quantum-Yeti)  
+- **Google Play:** [Apps](https://play.google.com/store/apps/dev?id=8208308725281252914)  
+- **Microsoft Store:** [Apps](https://apps.microsoft.com/search/publisher?name=QuantumYeti&hl=en-US&gl=US)  
+- **Sheet Music Publishing:** [Theoria Music](https://www.sheetmusicplus.com/en/category/publishers/t/theoria-music-publishing/)  
+- **Support:** [Ko-fi](https://ko-fi.com/quantumyeti)
