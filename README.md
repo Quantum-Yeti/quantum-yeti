@@ -28,25 +28,8 @@ The application was adopted by 10+ teams at a Fortune 500 ISP, where it contribu
 
 Financial forecasting application developed as my master's thesis project. Processes financial datasets, applies linear regression, and automates trend analysis and forecasting reports.
 
-### WiFi Muscles · Java / Android SDK
-
-Android application for analyzing Wi-Fi connections using Android telemetry data and real-time interactive charts to visualize connection and signal reliability.
-
-Available on Google Play.
-
-### Market Basket Analysis · Python / Pandas / Scikit-Learn
-
-End-to-end data analysis and machine learning project using the Instacart dataset. Includes data ingestion and cleaning, association-rule mining with the Apriori algorithm, predictive analysis, and visualization.
-
-### Lottery API · Java / Spring Boot
-
-REST API that ingests lottery data from CSV files, stores it in an H2 database, and exposes endpoints for querying and analytics.
-
 ## What I Like Building
 
 Backend systems, desktop applications, automation tools, data pipelines, APIs, and software that solves a real problem.
 
 I'm particularly interested in software engineering roles involving backend development, distributed systems, automation, data, and AI/LLM-powered applications.
- 
-**[Market Basket Analysis](https://github.com/Quantum-Yeti/ECommerceBIPipeline)** · Python, Pandas, Scikit-Learn  
-Predictive modeling pipeline using the Apriori algorithm to identify consumer purchasing patterns. Includes interactive dashboards and association rule visualization.
